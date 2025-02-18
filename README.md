@@ -46,14 +46,17 @@ This project shed light on pivotal metrics crucial for success in the hospitalit
 - Imported hotels data from Excel files into Power BI.
 - Performed data cleaning operations, including handling missing values, standardizing date formats, and correcting inconsistencies.
 - Transformed raw data into a structured format suitable for visualization using Power Query.
+  
 Step 2: Measure Creation & Data Modeling:
 
 - Defined key DAX measures to calculate Revenue, RevPar , ADR, DBRN, DSRN, Occupancy Percentage and realsation Percentage etc.
 - Created relationships between different data tables to ensure accurate aggregations and seamless filtering.
+  
 Step 3: Dashboard Visualization & Development:
 
 - Designed and implemented various interactive visualizations, including Line charts, Donut Charts, tables, tooltips and trend lines to easy visualization of Hotels performance.
 - Integrated slicers and filters to analyze data by on monthly , weekly ,city and room category basis.
+  
 Step 4: Dashboard Design & Layout Optimization:
 
 - Organized visuals strategically to ensure a clean and intuitive user interface.
